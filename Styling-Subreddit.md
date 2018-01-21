@@ -3,3 +3,6 @@
 [r/Reddithax](https://www.reddit.com/r/reddithax/)
 
 [custom themes](https://www.reddit.com/r/csshelp/wiki/themes)
+
+
+[how to center in css](http://howtocenterincss.com/#contentType=div&container.width=250px&container.height=250px&horizontal=center&vertical=middle&browser.IE=none)
