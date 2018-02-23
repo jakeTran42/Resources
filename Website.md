@@ -11,3 +11,9 @@
 [datacamp for python/datascience](https://www.datacamp.com/courses/tech:python?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5a4b11b3a5ec6c55374cd8e1)
 
 [intro to git flow](https://www.datacamp.com/courses/introduction-to-git-for-data-science?utm_medium=fb%2Can%2Cig%2Cms-all&utm_source=fb_paid&utm_campaign=smartly_ppa&utm_id=5a4b11b2a5ec6c55374cd8db)
+
+
+https://stackoverflow.com/questions/26956251/sending-emails-using-mailgun-with-nodemailer-package
+
+
+https://www.geeksforgeeks.org/binary-decimal-vice-versa-python/
