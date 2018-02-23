@@ -14,3 +14,6 @@
 
 
 https://stackoverflow.com/questions/26956251/sending-emails-using-mailgun-with-nodemailer-package
+
+
+https://www.geeksforgeeks.org/binary-decimal-vice-versa-python/
