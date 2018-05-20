@@ -17,3 +17,8 @@ https://stackoverflow.com/questions/26956251/sending-emails-using-mailgun-with-n
 
 
 https://www.geeksforgeeks.org/binary-decimal-vice-versa-python/
+
+
+https://www.youtube.com/watch?v=XH1Fp77D-js
+
+https://anidiotsguide_old.gitbooks.io/discord-js-bot-guide/content/examples/using-embeds-in-messages.html
