@@ -22,3 +22,9 @@ https://www.geeksforgeeks.org/binary-decimal-vice-versa-python/
 https://www.youtube.com/watch?v=XH1Fp77D-js
 
 https://anidiotsguide_old.gitbooks.io/discord-js-bot-guide/content/examples/using-embeds-in-messages.html
+
+https://medium.com/coding-artist/redux-from-scratch-chapter-5-implementing-middleware-533e201fc745
+
+https://medium.com/omarelgabrys-blog/database-fundamentals-part-2-b841032243ac
+
+https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me
